@@ -20,4 +20,4 @@ Projeto construido do evento Next Level Week da Rocketseat.
 
 ## Deploy
 
-Você pode conferir o projeto rodando [Clique aqui](https://caetanosbr.github.io/nlw-esports/).
+Você pode conferir o projeto rodando [Clique aqui](https://caetanosbr.github.io/nlw-eSports/).
