@@ -2,6 +2,8 @@
 
 # <nlw/> eSports ✔
 
+Projeto construido do evento Next Level Week da Rocketseat.
+
 ## Nosso projeto: o Game hub, um site centralizador de links, no estilo Linktree, feito especialmente para gamers.
 
 - [x] Preparar o nosso ambiente e construir as bases.
@@ -9,11 +11,13 @@
 - [x] Construção dos estilos no CSS.
 - [x] Animação do Projeto.
 
-## Techs
+## Tecnologias
 
 - HTML
 - CSS
+- Git e Github
+
 
 ## Deploy
 
-Você pode conferir o projeto rodando [aqui](https://caetanosbr.github.io/nlw/).
+Você pode conferir o projeto rodando [Clique aqui](https://caetanosbr.github.io/nlw/).
